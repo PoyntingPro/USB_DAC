@@ -1,3 +1,5 @@
+*.
 /USB_AMP-backups
 ~USB_AMP.kicad_sch.lck
 \#auto_saved_files#
+.DS_Store
