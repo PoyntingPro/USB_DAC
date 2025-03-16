@@ -8,7 +8,7 @@ This is a USB-C Digital-to-Analog Converter (DAC) and headphone amplifier that t
 
 - **USB-C Interface**: Because it's 2025 and we're not savages using USB-A anymore
 - **PCM2902 Codec**: High-quality audio conversion that makes Spotify sound like you're in the recording studio
-- **Dual Power Supplies**: 3.7V and 15.8V because sometimes you need to power a small village with your headphone amp
+- **Dual Power Supplies**: 3.7V and 15V because sometimes you need to power a small village with your headphone amp
 - **Baxandall Volume Control**: Fancy name for "makes things louder or quieter" but sounds more expensive
 - **NE5532 Op-Amps**: Because good audio is all about those op-amps, baby (8 of them to be exact!)
 - **Audiophile-Grade Components**: Your music deserves better than those $5 earbuds that came with your phone
@@ -17,7 +17,7 @@ This is a USB-C Digital-to-Analog Converter (DAC) and headphone amplifier that t
 
 - Input: USB-C (5V)
 - Output: Stereo audio that will make you question why you've been listening to music through your laptop speakers
-- Power Output: 250mW (100mA) - Enough to drive most headphones without setting them on fire
+- Power Output: 5W - Enough to drive most headphones without setting them on fire
 - Voltage Rails: +15V for the analog section (because more voltage = more better, right?)
 - Components: Various resistors, capacitors, and ICs that you'll inevitably place backward at least once
 
@@ -38,7 +38,7 @@ This is a USB-C Digital-to-Analog Converter (DAC) and headphone amplifier that t
 
 ## Credits
 
-Designed by Anirudh Madhusudhan, who apparently has too much free time and very particular audio standards.
+Designed by Anirudh Madhusudhan, becuase I apparently have too much free time and very particular audio standards.
 
 ## License
 
