@@ -12,6 +12,8 @@ This is a USB-C Digital-to-Analog Converter (DAC) and headphone amplifier that t
 - **Baxandall Volume Control**: Fancy name for "makes things louder or quieter" but sounds more expensive
 - **NE5532 Op-Amps**: Because good audio is all about those op-amps, baby (8 of them to be exact!)
 - **Audiophile-Grade Components**: Your music deserves better than those $5 earbuds that came with your phone
+- <img width="744" height="603" alt="image" src="https://github.com/user-attachments/assets/1a4cd634-ebe2-4b9e-8b57-ce525966139d" />
+
 
 ## Technical Specs
 
